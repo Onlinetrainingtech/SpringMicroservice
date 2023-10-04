@@ -2,11 +2,13 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\OnlineTraning\SpringMicroservice\currency-exchange-serviceP1"/>
+			<item value="D:\OnlineTraning\SpringMicroservice\netflix-zuul-api-gateway-server"/>
+			<item value="D:\OnlineTraning\SpringMicroservice\currency-exchange-service"/>
 			<item value="D:\OnlineTraning\SpringMicroservice\spring-cloud-config-serverP1"/>
 			<item value="D:\OnlineTraning\SpringMicroservice\limits-serviceP1"/>
 			<item value="D:\OnlineTraning\SpringMicroservice\spring-cloud-config-server"/>
 			<item value="D:\OnlineTraning\SpringMicroservice\limits-service"/>
-			<item value="D:\OnlineTraning\SpringMicroservice\currency-exchange-service"/>
 			<item value="D:\ConveyLabOnline\SpringMicroservice\currency-exchange-service"/>
 			<item value="D:\ConveyLabOnline\SpringMicroservice\spring-cloud-config-server"/>
 			<item value="D:\ConveyLabOnline\SpringMicroservice\limits-service"/>
