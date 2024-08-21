@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\OnlineTraning\SpringMicroservice\limits-serviceP3"/>
+			<item value="D:\OnlineTraning\SpringMicroservice\limits-servicep2"/>
 			<item value="D:\OnlineTraning\SpringMicroservice\currency-exchange-serviceP1"/>
 			<item value="D:\OnlineTraning\SpringMicroservice\netflix-zuul-api-gateway-server"/>
 			<item value="D:\OnlineTraning\SpringMicroservice\currency-exchange-service"/>
