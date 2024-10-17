@@ -1,4 +1,4 @@
-package com.javatpoint.microservices.currencyexchangeservice;
+package com.xyz.microservices.currencyexchangeservice;
 import java.math.BigDecimal;
 public class ExchangeValue 
 {

@@ -1,4 +1,4 @@
-package com.javatpoint.microservices.currencyexchangeservice;
+package com.xyz.microservices.currencyexchangeservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
