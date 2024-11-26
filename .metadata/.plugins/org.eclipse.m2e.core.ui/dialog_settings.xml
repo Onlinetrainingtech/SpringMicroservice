@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\OnlineTraning\SpringMicroservice\SpringBootRESTGP"/>
+			<item value="D:\OnlineTraning\SpringMicroservice\SpringBootWebGP"/>
+			<item value="D:\OnlineTraning\SpringMicroservice\SpringBootGP"/>
 			<item value="D:\OnlineTraning\SpringMicroservice\BSpring-cloud-config-server"/>
 			<item value="D:\OnlineTraning\SpringMicroservice\limits-serviceP5"/>
 			<item value="D:\OnlineTraning\SpringMicroservice\limits-serviceP3"/>
@@ -14,8 +17,6 @@
 			<item value="D:\OnlineTraning\SpringMicroservice\spring-cloud-config-server"/>
 			<item value="D:\OnlineTraning\SpringMicroservice\limits-service"/>
 			<item value="D:\ConveyLabOnline\SpringMicroservice\currency-exchange-service"/>
-			<item value="D:\ConveyLabOnline\SpringMicroservice\spring-cloud-config-server"/>
-			<item value="D:\ConveyLabOnline\SpringMicroservice\limits-service"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
